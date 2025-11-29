@@ -619,5 +619,6 @@ MIT License - Feel free to use in your projects!
 ---
 
 <p align="center">
-  Built with ❤️ using React + Vite + Tailwind CSS
+  Built with ❤️ using React + Vite + Tailwind CSS by Shrestha Kundu
 </p>
+
